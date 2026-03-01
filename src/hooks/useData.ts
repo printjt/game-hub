@@ -1,7 +1,6 @@
 import apiClient from "@/services/api-client";
 import { CanceledError, type AxiosRequestConfig } from "axios";
 import { useEffect, useState } from "react";
-import type { Genre } from "./useGenres";
 
 
 interface FetchResponse<T> {
