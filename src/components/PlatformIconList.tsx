@@ -1,4 +1,4 @@
-import type { Platform } from "@/hooks/useGame";
+import type { Platform } from "@/hooks/useGames";
 import { HStack, Icon } from "@chakra-ui/react";
 import type { IconType } from "react-icons";
 import { BsGlobe } from "react-icons/bs";
